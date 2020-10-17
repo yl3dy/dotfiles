@@ -1,0 +1,53 @@
+# Solarized theme, to use with Solarized terminal color theme
+# Based on transparent background theme by Marcin Michałowski
+
+background		= default		default
+frame			= grey		default  bold
+window_title		= yellow		default
+
+
+playlist		= grey		default
+selected_playlist	= cyan		black bold
+
+directory		= cyan		default  bold
+selected_directory	= cyan		black	bold
+
+file			= grey		default
+selected_file		= cyan		black bold
+marked_file		= magenta		default
+marked_selected_file	= magenta		black	bold
+info			= blue		default
+marked_info     = magenta   default
+selected_info   = cyan     black  bold
+marked_selected_info = magenta   black  bold
+
+
+
+status			= cyan		default  bold
+plist_time		= grey		default
+empty_mixer_bar		= grey		default
+filled_mixer_bar	= black		cyan
+
+
+state			= white		default	bold
+title			= cyan		default	bold
+error			= red		default
+message			= green		default
+
+
+current_time		= cyan		default	bold
+time_left		= cyan		default	bold
+total_time		= cyan		default	bold
+time_total_frames	= cyan		default bold
+
+sound_parameters	= grey		default
+legend			= grey		default
+
+disabled		= grey		default
+enabled			= yellow		default
+
+empty_time_bar		= white		default
+filled_time_bar		= black		cyan
+
+entry			= white		default
+entry_title		= black		cyan
